@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Project-2-Processor.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema"/>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1460034179" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1460034179">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1460034213" xil_pn:in_ck="1957354213967452366" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1460034213">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/arithmetic_logic_unit_16bit.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/arithmetic_unit_16bit.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/b_input_logic.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/datapath.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/decoder_3_to_8.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/full_adder.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/functional_unit.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/logic_unit_16bit.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/logic_unit_mux4_16bit.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/mux2_16bit.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/mux8_16bit.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/mux_b_data_bus_16bit.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/mux_d_data_bus_16bit.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/reg16.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/register_file.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/ripple_carry_adder_16bit.vhd"/>
+      <outfile xil_pn:name="../Project-1-Datapath-Design-Part-B/shifter_16bit.vhd"/>
+      <outfile xil_pn:name="CAR.vhd"/>
+      <outfile xil_pn:name="Extend.vhd"/>
+      <outfile xil_pn:name="IR_16bit.vhd"/>
+      <outfile xil_pn:name="PC_16bit.vhd"/>
+      <outfile xil_pn:name="Zero_fill.vhd"/>
+      <outfile xil_pn:name="control_memory_16bit.vhd"/>
+      <outfile xil_pn:name="memory_m_16bit.vhd"/>
+      <outfile xil_pn:name="mux2_8bit.vhd"/>
+      <outfile xil_pn:name="mux8_1bit.vhd"/>
+      <outfile xil_pn:name="processor.vhd"/>
+      <outfile xil_pn:name="processor_tb.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1460034179" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-9044832904953873877" xil_pn:start_ts="1460034179">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1460034179" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="7061238933782622035" xil_pn:start_ts="1460034179">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1460034179" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="6659345621413916112" xil_pn:start_ts="1460034179">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+  </transforms>
+
+</generated_project>
